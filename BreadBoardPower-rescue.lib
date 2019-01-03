@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# BreadBoardPower-rescue_AP1117-33
+# AP1117-33
 #
-DEF BreadBoardPower-rescue_AP1117-33 U 0 10 Y Y 1 F N
+DEF AP1117-33 U 0 10 Y Y 1 F N
 F0 "U" -150 125 50 H V C CNN
-F1 "BreadBoardPower-rescue_AP1117-33" 0 125 50 H V L CNN
+F1 "AP1117-33" 0 125 50 H V L CNN
 F2 "TO_SOT_Packages_SMD:SOT-223-3Lead_TabPin2" 0 200 50 H I C CNN
 F3 "" 100 -250 50 H I C CNN
 $FPLIST
@@ -19,11 +19,11 @@ X VI 3 -300 0 100 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# BreadBoardPower-rescue_C_Small
+# C_Small
 #
-DEF BreadBoardPower-rescue_C_Small C 0 10 N N 1 F N
+DEF C_Small C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
-F1 "BreadBoardPower-rescue_C_Small" 10 -80 50 H V L CNN
+F1 "C_Small" 10 -80 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -37,11 +37,11 @@ X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BreadBoardPower-rescue_Conn_01x02_Female
+# Conn_01x02_Female
 #
-DEF BreadBoardPower-rescue_Conn_01x02_Female J 0 40 Y N 1 F N
+DEF Conn_01x02_Female J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "BreadBoardPower-rescue_Conn_01x02_Female" 0 -200 50 H V C CNN
+F1 "Conn_01x02_Female" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -60,11 +60,11 @@ X Pin_2 2 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BreadBoardPower-rescue_Conn_01x02_Male
+# Conn_01x02_Male
 #
-DEF BreadBoardPower-rescue_Conn_01x02_Male J 0 40 Y N 1 F N
+DEF Conn_01x02_Male J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "BreadBoardPower-rescue_Conn_01x02_Male" 0 -200 50 H V C CNN
+F1 "Conn_01x02_Male" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -83,11 +83,11 @@ X Pin_2 2 200 -100 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BreadBoardPower-rescue_Conn_02x04_Counter_Clockwise
+# Conn_02x04_Counter_Clockwise
 #
-DEF BreadBoardPower-rescue_Conn_02x04_Counter_Clockwise J 0 40 Y N 1 F N
+DEF Conn_02x04_Counter_Clockwise J 0 40 Y N 1 F N
 F0 "J" 50 200 50 H V C CNN
-F1 "BreadBoardPower-rescue_Conn_02x04_Counter_Clockwise" 50 -300 50 H V C CNN
+F1 "Conn_02x04_Counter_Clockwise" 50 -300 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -115,11 +115,11 @@ X Pin_8 8 300 100 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BreadBoardPower-rescue_Ferrite_Bead_Small
+# Ferrite_Bead_Small
 #
-DEF BreadBoardPower-rescue_Ferrite_Bead_Small L 0 0 N Y 1 F N
+DEF Ferrite_Bead_Small L 0 0 N Y 1 F N
 F0 "L" 75 50 50 H V L CNN
-F1 "BreadBoardPower-rescue_Ferrite_Bead_Small" 75 -50 50 H V L CNN
+F1 "Ferrite_Bead_Small" 75 -50 50 H V L CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -136,11 +136,11 @@ X ~ 2 0 -100 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BreadBoardPower-rescue_GND
+# GND
 #
-DEF BreadBoardPower-rescue_GND #PWR 0 0 Y Y 1 F P
+DEF GND #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "BreadBoardPower-rescue_GND" 0 -150 50 H V C CNN
+F1 "GND" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -149,11 +149,11 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# BreadBoardPower-rescue_LED
+# LED
 #
-DEF BreadBoardPower-rescue_LED D 0 40 Y N 1 F N
+DEF LED D 0 40 Y N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "BreadBoardPower-rescue_LED" 0 -100 50 H V C CNN
+F1 "LED" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -170,11 +170,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BreadBoardPower-rescue_R_Small
+# R_Small
 #
-DEF BreadBoardPower-rescue_R_Small R 0 10 N N 1 F N
+DEF R_Small R 0 10 N N 1 F N
 F0 "R" 30 20 50 H V L CNN
-F1 "BreadBoardPower-rescue_R_Small" 30 -40 50 H V L CNN
+F1 "R_Small" 30 -40 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -187,11 +187,11 @@ X ~ 2 0 -100 30 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BreadBoardPower-rescue_SW_Push_SPDT
+# SW_Push_SPDT
 #
-DEF BreadBoardPower-rescue_SW_Push_SPDT SW 0 0 Y N 1 F N
+DEF SW_Push_SPDT SW 0 0 Y N 1 F N
 F0 "SW" 0 170 50 H V C CNN
-F1 "BreadBoardPower-rescue_SW_Push_SPDT" 0 -200 50 H V C CNN
+F1 "SW_Push_SPDT" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -206,11 +206,11 @@ X C 3 200 -100 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BreadBoardPower-rescue_USB_OTG
+# USB_OTG
 #
-DEF BreadBoardPower-rescue_USB_OTG J 0 40 Y Y 1 F N
+DEF USB_OTG J 0 40 Y Y 1 F N
 F0 "J" -200 450 50 H V L CNN
-F1 "BreadBoardPower-rescue_USB_OTG" -200 350 50 H V L CNN
+F1 "USB_OTG" -200 350 50 H V L CNN
 F2 "" 150 -50 50 H I C CNN
 F3 "" 150 -50 50 H I C CNN
 $FPLIST
